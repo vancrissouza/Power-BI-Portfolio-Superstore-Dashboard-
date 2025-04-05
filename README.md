@@ -38,5 +38,8 @@ To create a professional-grade dashboard that supports data-driven decision-maki
 - Applying storytelling to business intelligence
 
 
+## Preview
+
+![image](https://github.com/user-attachments/assets/6bb1e73a-da9f-40ee-a36e-e07f4a04ae8b)
 
 
